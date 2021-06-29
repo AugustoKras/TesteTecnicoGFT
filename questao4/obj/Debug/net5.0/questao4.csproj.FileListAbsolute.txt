@@ -1,0 +1,16 @@
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\bin\Debug\net5.0\questao4.exe
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\bin\Debug\net5.0\questao4.deps.json
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\bin\Debug\net5.0\questao4.runtimeconfig.json
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\bin\Debug\net5.0\questao4.runtimeconfig.dev.json
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\bin\Debug\net5.0\questao4.dll
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\bin\Debug\net5.0\ref\questao4.dll
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\bin\Debug\net5.0\questao4.pdb
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.csprojAssemblyReference.cache
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.AssemblyInfoInputs.cache
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.AssemblyInfo.cs
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.csproj.CoreCompileInputs.cache
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.dll
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\ref\questao4.dll
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.pdb
+C:\Users\Augusto Kraszczuk\desktop\desafiogft_augusto\questao4\obj\Debug\net5.0\questao4.genruntimeconfig.cache
